@@ -60,5 +60,11 @@ Phase 10: Android / Google Play Store exploration
 
 ## 10. Phase 1 Status
 
-Current phase: Phase 1 only.
+Current phase: Phase 1 complete. Phase 1A (market comparator analysis) complete.
 Backend, frontend, scraper, scheduler, RAG, Groq, deployment, and Android app are not started yet.
+
+## 11. Phase 1A - Market Comparator Analysis
+
+Before Phase 2, product research documentation was added to clarify competitor landscape, MVP positioning, and non-goals.
+
+See [Market Comparator Analysis](../product/market_comparator_analysis.md).

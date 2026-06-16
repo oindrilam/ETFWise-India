@@ -7,3 +7,7 @@
 - [x] Step 5: Design metrics table
 - [x] Step 6: Create data quality rules
 - [x] Step 7: Phase 1 review and commit
+
+## Phase 1A
+
+- [x] Phase 1A: Market Comparator Analysis

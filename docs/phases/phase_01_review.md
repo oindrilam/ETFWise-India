@@ -106,6 +106,12 @@ All acceptance criteria above are met.
 
 The project is ready to move to Phase 2 (data ingestion scripts) only after a deliberate decision to start Phase 2. Phase 2 has not started.
 
+## Phase 1A - Market Comparator Analysis
+
+Phase 1A was added after Phase 1 to clarify competitor landscape, product differentiation, MVP positioning, and non-goals before Phase 2.
+
+See [Market Comparator Analysis](../product/market_comparator_analysis.md).
+
 ## Related Documents
 
 - [Architecture](../architecture/ARCHITECTURE.md)
@@ -113,3 +119,4 @@ The project is ready to move to Phase 2 (data ingestion scripts) only after a de
 - [Data Sources](../data/data_sources.md)
 - [Table Design](../data/table_design.md)
 - [Data Quality Rules](../data/data_quality_rules.md)
+- [Market Comparator Analysis](../product/market_comparator_analysis.md)

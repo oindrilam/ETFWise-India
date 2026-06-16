@@ -14,7 +14,11 @@ AI assistant to compare Indian ETFs using official/public data sources.
 
 ## Current Phase
 
-**Phase 1 - Data Design**
+**Phase 1 - Data Design** (complete). **Phase 1A - Market Comparator Analysis** (complete). Phase 2 not started.
+
+## Product Differentiation
+
+- [Market Comparator Analysis](docs/product/market_comparator_analysis.md)
 
 ## Documentation
 
